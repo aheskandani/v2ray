@@ -1,1 +1,1 @@
-vless://9cc72c9e-1cf1-42e6-82ab-f4a666fb11a5@ehsan.shaftalo.site:5050?type=tcp&path=%2F&host=divarcdn.com&headerType=http#Kopq_30_32
+vless://2e8519ec-ca0f-46b9-8050-15764619e16a@ehsan.shaftalo.site:5050?type=tcp&path=%2F&host=divarcdn.com&headerType=http#Terni_30_32
